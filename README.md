@@ -89,12 +89,8 @@ Budget Breakdown:
   Dining: N/A
   Total: N/A
 
-Tips:
-  - Stay hydrated and apply sunscreen during beach activities.
-  - Explore local cuisine; try Xacuti and Vindaloo.
-  - Negotiate prices at flea markets.
-  - Use local transport or rent a scooter for easy commuting.
-    </pre>
+
+
   </li>
 </ol>
 
