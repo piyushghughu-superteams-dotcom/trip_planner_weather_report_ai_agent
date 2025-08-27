@@ -3,14 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>Trip Planner AI Agent</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; background-color: #f9f9f9; }
-    h1, h2, h3 { color: #2c3e50; }
-    pre { background-color: #ecf0f1; padding: 10px; border-radius: 5px; overflow-x: auto; }
-    code { background-color: #ecf0f1; padding: 2px 5px; border-radius: 3px; }
-    ul { margin: 0 0 10px 20px; }
-    .note { color: #c0392b; font-weight: bold; }
-  </style>
 </head>
 <body>
 
