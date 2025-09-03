@@ -49,6 +49,9 @@ source venv/bin/activate</pre>
   <li>Weather report prints forecasts or historical data in a human-readable format.</li>
   <li>Ensure all required API keys are in <code>.env</code> before running the scripts.</li>
 </ul>
+---
+**This blog was written in collaboration with [Superteams.ai](https://www.superteams.ai)**
+
 
 </body>
 </html>
