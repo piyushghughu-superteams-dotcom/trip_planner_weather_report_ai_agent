@@ -51,7 +51,5 @@ source venv/bin/activate</pre>
 </ul>
 ---
 **This blog was written in collaboration with [Superteams.ai](https://www.superteams.ai)**
-
-
 </body>
 </html>
